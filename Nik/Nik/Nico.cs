@@ -8,5 +8,9 @@ namespace Nik
 {
     internal class Nico
     {
+        public void Ciao()
+        {
+            Console.Write("Mi chiamo nicola");
+        }
     }
 }
